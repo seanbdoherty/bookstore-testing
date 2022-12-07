@@ -6,7 +6,7 @@
   "author": "Project Shift",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.1",
     "finalhandler": "latest",
     "http": "latest",
     "rand-token": "^0.4.0",
